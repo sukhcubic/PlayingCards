@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		976ABF3E22FBD7FE00CB3939 /* CardBehavior.swift in Sources */ = {isa = PBXBuildFile; fileRef = 976ABF3D22FBD7FE00CB3939 /* CardBehavior.swift */; };
 		97EF366122F609230022CE67 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97EF366022F609230022CE67 /* AppDelegate.swift */; };
 		97EF366322F609230022CE67 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97EF366222F609230022CE67 /* ViewController.swift */; };
 		97EF366622F609230022CE67 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 97EF366422F609230022CE67 /* Main.storyboard */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		976ABF3D22FBD7FE00CB3939 /* CardBehavior.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardBehavior.swift; sourceTree = "<group>"; };
 		97EF365D22F609230022CE67 /* PlayingCards.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PlayingCards.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		97EF366022F609230022CE67 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		97EF366222F609230022CE67 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -109,6 +111,7 @@
 				97EF368E22F609550022CE67 /* PlayingCard.swift */,
 				97EF369022F616540022CE67 /* PlayingCardDeck.swift */,
 				97EF369222F689DE0022CE67 /* PlayingCardView.swift */,
+				976ABF3D22FBD7FE00CB3939 /* CardBehavior.swift */,
 			);
 			path = PlayingCards;
 			sourceTree = "<group>";
@@ -266,6 +269,7 @@
 				97EF368F22F609550022CE67 /* PlayingCard.swift in Sources */,
 				97EF369322F689DE0022CE67 /* PlayingCardView.swift in Sources */,
 				97EF366122F609230022CE67 /* AppDelegate.swift in Sources */,
+				976ABF3E22FBD7FE00CB3939 /* CardBehavior.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
